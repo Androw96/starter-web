@@ -19,4 +19,4 @@ Bulk webtools nothing special
 
 ## Writer
 
-0zymandias bitch!
+0zymandias
