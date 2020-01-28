@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name>András Kónya konyaandras96
 
 # THANKS
 
