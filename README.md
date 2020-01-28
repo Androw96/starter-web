@@ -16,3 +16,7 @@ According to a tutorial in Udemy by 0zymandias96
 ## How to Contribute
 
 Bulk webtools nothing special
+
+## Writer
+
+0zymandias
